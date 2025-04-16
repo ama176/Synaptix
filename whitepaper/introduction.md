@@ -1,3 +1,5 @@
+![Banner](../assets/A_pixel_art_digital_illustration_features_the_word.png)
+
 ![A_pixel_art_digital_illustration_features_the_word.png](../assets/A_pixel_art_digital_illustration_features_the_word.png)
 
 # Introduction

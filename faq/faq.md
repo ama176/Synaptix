@@ -1,3 +1,5 @@
+![Banner](../assets/A_pixel_art_digital_illustration_features_the_word (1).png)
+
 # Frequently Asked Questions (FAQ)
 
 Welcome to the FAQ section of Synaptix. If you're new to our platform or curious about how things work, you're in the right place.

@@ -1,3 +1,5 @@
+![Banner](../assets/A_pixel_art_style_digital_illustration_features_th.png)
+
 ![A_pixel_art_style_digital_illustration_features_th.png](../assets/A_pixel_art_style_digital_illustration_features_th.png)
 
 # Security & Transparency

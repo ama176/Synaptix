@@ -1,3 +1,5 @@
+![Banner](../assets/A_pixel_art_style_digital_illustration_features_th.png)
+
 # Contact Us
 
 Have a question or want to collaborate? We’d love to hear from you.

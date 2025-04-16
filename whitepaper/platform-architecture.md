@@ -1,3 +1,5 @@
+![Banner](../assets/A_pixel_art_digital_illustration_features_the_titl.png)
+
 ![A_pixel_art_digital_illustration_features_the_titl.png](../assets/A_pixel_art_digital_illustration_features_the_titl.png)
 
 # Platform Architecture
