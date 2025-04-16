@@ -1,21 +1,13 @@
-![Banner](../assets/A_pixel_art_digital_illustration_features_the_word (1).png)
+# FAQ
 
-# Frequently Asked Questions (FAQ)
+**Q: Do I need crypto experience to start?**
+A: Absolutely not. Synaptix is built with beginner onboarding in mind. You can connect a wallet in 2 clicks and start playing without needing prior blockchain knowledge.
 
-Welcome to the FAQ section of Synaptix. If you're new to our platform or curious about how things work, you're in the right place.
+**Q: Can I use other tokens besides SOL?**
+A: Initially, SOL is the main reward token. However, our roadmap includes multi-token support and wrapped assets.
 
-## ❓ What is Synaptix?
-Synaptix is a Play-to-Earn gaming hub built on the Solana blockchain. It allows players to earn SOL tokens by completing quests, participating in PvP matches, and engaging in various on-chain mini-games.
+**Q: Is Synaptix open source?**
+A: Key parts of our smart contracts and SDKs will be open-source, with community feedback loops for all governance decisions.
 
-## 🪙 How do I earn rewards?
-You earn rewards by playing games on the platform. Depending on the type of game, you can earn tokens through quests, rankings, skill-based challenges, or prediction outcomes.
-
-## 🔐 Is it safe to connect my wallet?
-Yes. Synaptix supports leading non-custodial wallets like Phantom and Backpack. You maintain full control over your assets, and all smart contracts are audited.
-
-## 🎮 Do I need to buy anything to start?
-No. Synaptix offers several free-to-play games to get you started. However, owning NFTs may enhance your earnings and unlock exclusive game modes.
-
-## 📱 Will there be a mobile version?
-Yes. A mobile-friendly version of Synaptix is scheduled for release in Q4 2025 for both iOS and Android.
-
+**Q: Can I withdraw my earnings anytime?**
+A: Yes. All SOL rewards are directly deposited into your wallet and are liquid from the moment of receipt.

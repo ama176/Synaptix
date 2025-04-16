@@ -1,23 +1,23 @@
 # Roadmap
 
-Here is our upcoming roadmap for 2025 and beyond:
+**Q2 2025**
+- Beta platform launch with core Solana integration
+- First batch of 10 launch games including 3 PvP, 4 Mini Games, and 3 Puzzle titles
+- Smart Contract v1 release with reward logic and testnet bounty program
 
-## Q2 2025
-- Beta launch of Synaptix platform
-- Wallet integrations (Phantom, Backpack, etc.)
-- Launch of first arcade and PvP games
+**Q3 2025**
+- NFT marketplace (minting, trading, staking)
+- Prediction game module (sports, crypto, strategy)
+- Skill-based matchmaking system roll-out
+- Developer portal and SDK documentation
 
-## Q3 2025
-- NFT marketplace rollout
-- Launch of prediction games
-- PvP tournament system + leaderboard rankings
+**Q4 2025**
+- Mobile app alpha (iOS/Android)
+- Cross-game quest integration
+- Multi-currency wallet support
+- Dynamic leaderboard engine
 
-## Q4 2025
-- Mobile version (iOS + Android)
-- Community-run game voting feature
-- DAO launch for governance
-
-## Q1 2026
-- Developer SDK release
-- Strategic partnerships with gaming guilds
-- Launch of Synaptix Game Awards
+**Q1 2026**
+- DAO-based governance tools
+- EVM-compatible bridge for multi-chain support
+- Web3 Gaming Creator Fund launch

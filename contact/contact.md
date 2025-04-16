@@ -1,19 +1,11 @@
-![Banner](../assets/A_pixel_art_style_digital_illustration_features_th.png)
+# Contact
 
-# Contact Us
+For any inquiries, partnerships, or support, you can reach us through the following official channels:
 
-Have a question or want to collaborate? We’d love to hear from you.
+- General Support: hello@synaptix.games
+- Partnerships: partners@synaptix.games
+- Press: press@synaptix.games
+- Twitter: @synaptixgames
+- Discord: discord.gg/synaptix
 
-## 📬 General Inquiries  
-✉️ Email: hello@synaptix.games
-
-## 💼 Business Partnerships  
-🤝 Email: partners@synaptix.games
-
-## 🧠 Support & Help  
-📘 Visit our [GitBook Support Page](https://synaptix.gitbook.io)
-
-## 🌍 Socials  
-Twitter: [@synaptixP2E](https://twitter.com/synaptixP2E)  
-Discord: Coming soon  
-Telegram: Coming soon
+Our team responds within 48 hours on all working days. For real-time support, Discord is the fastest channel.

@@ -1,18 +1,12 @@
-# Meet the Team
+# Team
 
-Our team is a collective of Web3 builders, indie game developers, and community architects who believe in democratizing game ownership and rewards.
+The Synaptix team is comprised of individuals with rich backgrounds in blockchain development, traditional gaming, cybersecurity, and financial modeling. We operate as a remote-first organization with a presence in 7 countries, unified by a mission to bring meaningful rewards to global gamers.
 
-## 👾 Core Team
+**Key People:**
+- **Alex M.** – Lead Blockchain Engineer (10+ years dev, ex-Solana Labs)
+- **Sofia L.** – Game Studio Director (ex-Riot Games, Blizzard)
+- **J. Kim** – Smart Contract Security Lead (OpenZeppelin contributor)
+- **Dana R.** – Community Growth Strategist (DAO moderator and guild manager)
+- **Mo T.** – UX Designer (Pixel-native Web3 UI design)
 
-### Tom “TechChrome” E. – Founder & Lead Dev  
-Blockchain enthusiast and full-stack developer. Formerly at Solana Labs.
-
-### Aya M. – Game Design Lead  
-Level design genius with a passion for pixel art and tokenized economies.
-
-### Leo K. – Smart Contract Engineer  
-Specialized in Solana programs (Rust), DeFi mechanics & secure audits.
-
-### Kay D. – Community & Partnerships  
-Building the bridge between guilds, influencers, and new players.
-
+The team works closely with industry advisors, tokenomics auditors, and smart contract security partners to ensure that Synaptix remains cutting-edge, stable, and secure.

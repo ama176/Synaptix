@@ -1,3 +1,3 @@
-# Synaptix: Play 2 Sol
+# Synaptix Whitepaper
 
-Welcome to the Synaptix documentation – your gateway to understanding the future of Play-to-Earn on Solana.
+This GitBook contains the full Synaptix documentation.
