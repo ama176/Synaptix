@@ -1,3 +1,5 @@
+![A_pixel_art_digital_illustration_features_the_word.png](../assets/A_pixel_art_digital_illustration_features_the_word.png)
+
 # Introduction
 
 The gaming industry is rapidly evolving with the integration of blockchain technologies. Web3 gaming, also known as GameFi, introduces new economic models that reward users not just with entertainment, but with real, tradable value.

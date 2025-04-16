@@ -1,3 +1,5 @@
+![A_pixel_art_digital_illustration_features_the_titl.png](../assets/A_pixel_art_digital_illustration_features_the_titl.png)
+
 # Platform Architecture
 
 Synaptix is built with scalability, security, and modularity in mind. Below is a breakdown of the key architectural components:
