@@ -1,5 +1,3 @@
-## Contact
-- Website: https://synaptix.io
-- Email: contact@synaptix.io
-- Discord: https://discord.gg/synaptix
-- Twitter: @synaptix_io
+# Contact
+
+For inquiries, please reach out via our official channels.

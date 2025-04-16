@@ -1,2 +1,3 @@
-## Team
-The Synaptix team combines blockchain engineers, game developers, and DeFi strategists.
+# Team
+
+Meet the passionate builders behind Synaptix.

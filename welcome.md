@@ -1,2 +1,3 @@
-# Welcome
-Welcome to Synaptix – the next-gen Play-to-Earn hub on the Solana blockchain.
+# Welcome to Synaptix
+
+The Play-to-Earn Gaming Hub on Solana.
