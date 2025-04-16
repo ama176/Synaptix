@@ -2,7 +2,8 @@
 
 * 🏠 [Welcome](welcome.md)
 * 🌍 [Overview](overview/overview.md)
-* 📜 [Whitepaper](whitepaper/introduction.md)
+* 📜 Whitepaper
+  * 📘 [Introduction](whitepaper/introduction.md)
   * ✨ [Vision & Mission](whitepaper/vision-and-mission.md)
   * 🏗️ [Platform & Architecture](whitepaper/platform-architecture.md)
   * 🔐 [Security](whitepaper/security.md)
